@@ -2,6 +2,3 @@ circle
 oval
 rectangle
 square
-
-It goes into the square hole
-
